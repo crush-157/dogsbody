@@ -1,0 +1,11 @@
+{
+  "memory": "1G",
+  "instances": "1",
+  "environment":{},
+  "services":[{
+    "type":"MySQLCS",
+    "name":"DogsbodyDB",
+    "username":"root",
+    "password":"Welcome_1"
+  }]
+}

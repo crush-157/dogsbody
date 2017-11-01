@@ -1,0 +1,4 @@
+*.tgz
+*.env
+Gemfile.lock
+zip_for_accs.sh
