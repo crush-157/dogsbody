@@ -1,0 +1,15 @@
+Using bundler 2.4.1
+Using daemons 1.4.1
+Using eventmachine 1.2.7
+Using json 2.6.3
+Using ruby2_keywords 0.0.5
+Using mustermann 3.0.0
+Using mysql2 0.5.5
+Using rack 2.2.6.2
+Using rack-protection 3.0.5
+Using sequel 5.64.0
+Using tilt 2.0.11
+Using sinatra 3.0.5
+Using thin 1.8.1
+Bundle complete! 5 Gemfile dependencies, 13 gems now installed.
+Use `bundle info [gemname]` to see where a bundled gem is installed.

@@ -1,0 +1,3 @@
+MYSQLCS_USER_NAME=dogsbody
+MYSQLCS_USER_PASSWORD=Welcome1234!
+MYSQLCS_CONNECT_STRING=host.containers.internal/dogsbody
