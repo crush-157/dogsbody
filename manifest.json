@@ -1,9 +1,0 @@
-{
-  "runtime":{
-    "majorVersion":"2.4.1"
-  },
-  "command": "bash ./install_and_run.sh",
-  "startupTime": "300",
-  "release": {},
-  "notes": "Sample REST API"
-}
